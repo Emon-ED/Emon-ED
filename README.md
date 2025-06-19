@@ -1,8 +1,6 @@
 <h1 align="center">Hello there! EMON</h1>
 <h3 align="center">Full-Stack MERN Developer | Expert in Clean UI, Scalable Backend, Firebase Auth, and Modern Web Experiences</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Emon-ED" alt="Emon-ED" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon-ed" alt="emon-ed" /></a> </p>
 
 - Currently building scalable web applications with React & Node.js. [Dream Funded](https://github.com/Emon-ED/Dream-Funded)
