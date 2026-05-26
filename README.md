@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Emon Dutta 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack | SaaS Development | AI Automation | API Integrations</h3>
+<h3 align="center">Full-Stack MERN Developer | SaaS Builder | AI Automation | API Integrations</h3>
 
 <p align="center">
-Building scalable web applications, automation systems, and backend solutions that solve real business problems.
+I build scalable web applications, automation systems, and business-focused digital solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer focused on **MERN Stack, SaaS Platforms, and Automation Systems**
-- ⚙️ Strong in building **clean UI, scalable backend architecture, API integrations, and business tools**
+- 💻 Full-Stack Developer specializing in **MERN Stack & SaaS Development**
+- ⚡ Experienced in building **responsive UI, scalable backend, secure authentication, and API integrations**
+- 🔥 Focused on solving **real-world business problems with clean and modern web solutions**
 - 🌱 Currently learning **TypeScript, Docker, CI/CD, and system design**
-- 🔍 Interested in **AI automation, workflow systems, internal tools, dashboards, and product-focused development**
-- 🤝 Open to collaborating on **real-world web apps, SaaS products, and automation-based solutions**
+- 🤝 Open to collaboration on **SaaS products, web apps, dashboards, and automation tools**
 
 ---
 
@@ -24,18 +24,19 @@ Building scalable web applications, automation systems, and backend solutions th
 - REST API & Third-Party Integrations  
 - Authentication Systems (Firebase, JWT)  
 - Dashboard & Admin Panels  
-- Backend Logic & Database Design  
+- Database Design & Backend Logic  
 - AI Workflow Automation  
-- Scalable Business Tools
+- Business Tools & Internal Systems  
 
 ---
 
 ## 🚧 Featured Project
 
 ### Dream Funded
-Scalable fundraising-focused web application built using modern MERN architecture.
+A scalable fundraising-focused web application built with modern MERN architecture.
 
-🔗 Repo: https://github.com/Emon-ED/Dream-Funded
+🔗 Repository:  
+https://github.com/Emon-ED/Dream-Funded
 
 ---
 
@@ -47,16 +48,32 @@ Scalable fundraising-focused web application built using modern MERN architectur
 
 ---
 
-## 🌍 Portfolio
+## 🤖 AI & Automation Tools
 
-🔗 https://corestack-studio.web.app/  
-🔗 https://myportfolio-6e875.web.app
+- OpenAI API
+- Gemini API
+- Claude API
+- REST API Automation
+- Webhooks
+- Firebase Functions
+- Workflow Automation
+- API-Based Systems
+
+---
+
+## 🌍 Portfolio & Agency
+
+🔗 CoreStack Studio  
+https://corestack-studio.web.app/
+
+🔗 Personal Portfolio  
+https://myportfolio-6e875.web.app/
 
 ---
 
 ## 📄 Resume
 
-🔗 https://drive.google.com/file/d/1utYOh9ElVXFJuH6M7LeCKmR5Ce_Uop7h/view
+https://drive.google.com/file/d/1utYOh9ElVXFJuH6M7LeCKmR5Ce_Uop7h/view
 
 ---
 
@@ -84,17 +101,26 @@ Scalable fundraising-focused web application built using modern MERN architectur
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Emon-ED&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon-ED&layout=compact&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api?username=emon-ed&show_icons=true&theme=transparent&cache_seconds=1800" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-ed&layout=compact&theme=transparent&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-Building:
-- AI Automation Systems  
 - SaaS Applications  
-- Internal Business Tools  
+- AI Automation Systems  
 - API-Driven Platforms  
-- Scalable Web Products
+- Internal Business Tools  
+- Scalable MERN Applications  
+- Modern Web Experiences  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that make businesses faster, smarter, and more scalable.
