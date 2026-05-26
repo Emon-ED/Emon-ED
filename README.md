@@ -1,36 +1,47 @@
 <h1 align="center">Hi, I'm Emon Dutta 👋</h1>
-<h3 align="center">Full-Stack MERN Developer | SaaS Builder | API Integrations | Automation Systems</h3>
+
+<h3 align="center">
+Web Developer • Digital Solution Builder • Automation Enthusiast
+</h3>
 
 <p align="center">
-Building scalable web applications and business-focused digital solutions.
+I build clean websites, scalable web applications, and smart digital systems that help businesses work better, faster, and grow with confidence.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer focused on **MERN Stack Development**
-- ⚡ Skilled in **responsive frontend, backend APIs, authentication, and database architecture**
-- 🔥 I build practical web solutions for real business needs
-- 🌱 Currently learning **TypeScript, Docker, CI/CD, and system design**
-- 🤝 Open to collaboration on **web apps, SaaS MVPs, dashboards, and backend systems**
+I’m a web developer focused on building practical digital solutions that solve real problems.
+
+I enjoy creating products that are not just visually clean, but functional, scalable, and useful for businesses and users.
+
+My work often involves combining **modern web development, backend systems, automation workflows, and business-focused thinking** to turn ideas into reliable digital experiences.
+
+Currently improving my skills in:
+- TypeScript
+- Docker
+- CI/CD
+- System Design
+- Scalable Architecture
 
 ---
 
-## 🛠 Core Skills
+## 💡 What I Build
 
-- Full-Stack Web Development  
-- REST API Integration  
-- Authentication (Firebase / JWT)  
-- Dashboard & Admin Panels  
-- Backend Architecture  
-- Database Design  
-- Business Tools  
-- Scalable MERN Apps  
+- Modern Business Websites  
+- Custom Web Applications  
+- Admin Dashboards  
+- API Integrations  
+- Authentication Systems  
+- Automation Workflows  
+- Internal Business Tools  
+- Backend Logic & Database Systems  
+- Scalable Digital Platforms  
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,bootstrap,git,github,docker,figma" />
@@ -38,24 +49,30 @@ Building scalable web applications and business-focused digital solutions.
 
 ---
 
-## 🤖 Tools & Workflow
+## 🤖 Workflow & Automation
 
-- OpenAI API
-- REST APIs
-- Webhooks
-- Firebase Functions
-- Git & GitHub
-- CI/CD Basics
-- Automation Workflows
+- API-Based Integrations  
+- Webhooks  
+- OpenAI API  
+- Firebase Functions  
+- Automation Logic  
+- Backend Process Flows  
+- Scalable Business Systems  
 
 ---
 
-## 🌍 Portfolio
+## 🌍 Building Beyond Code
 
-### CoreStack Studio  
+I’m also growing **CoreStack Studio** — a digital solutions agency focused on creating web experiences, automation systems, and business tools that help brands operate smarter.
+
+🔗 CoreStack Studio  
 https://corestack-studio.web.app/
 
-### Personal Portfolio  
+---
+
+## 💼 Portfolio
+
+🔗 Personal Portfolio  
 https://myportfolio-6e875.web.app/
 
 ---
@@ -73,7 +90,7 @@ https://drive.google.com/file/d/1utYOh9ElVXFJuH6M7LeCKmR5Ce_Uop7h/view
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://fb.com/emon.dutta.58" target="_blank">
@@ -98,12 +115,16 @@ https://drive.google.com/file/d/1utYOh9ElVXFJuH6M7LeCKmR5Ce_Uop7h/view
 
 ## 🎯 Current Focus
 
-- Scalable MERN Applications  
-- SaaS MVP Development  
-- Backend Systems  
-- API-Driven Platforms  
+- Web Development  
+- Scalable Digital Products  
 - Business Automation  
-- Modern UI/UX  
+- API-Driven Systems  
+- Better User Experience  
+- Clean Problem-Solving  
 
 ---
-⭐ Building useful systems, not just websites.
+
+### ✨ Philosophy
+
+Good development is not only about writing code.  
+It’s about building systems people trust, use, and grow with.
