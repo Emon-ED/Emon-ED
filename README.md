@@ -1,42 +1,32 @@
 <h1 align="center">Hi, I'm Emon Dutta 👋</h1>
-<h3 align="center">Full-Stack MERN Developer | SaaS Builder | AI Automation | API Integrations</h3>
+<h3 align="center">Full-Stack MERN Developer | SaaS Builder | API Integrations | Automation Systems</h3>
 
 <p align="center">
-I build scalable web applications, automation systems, and business-focused digital solutions.
+Building scalable web applications and business-focused digital solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer specializing in **MERN Stack & SaaS Development**
-- ⚡ Experienced in building **responsive UI, scalable backend, secure authentication, and API integrations**
-- 🔥 Focused on solving **real-world business problems with clean and modern web solutions**
+- 💻 Full-Stack Developer focused on **MERN Stack Development**
+- ⚡ Skilled in **responsive frontend, backend APIs, authentication, and database architecture**
+- 🔥 I build practical web solutions for real business needs
 - 🌱 Currently learning **TypeScript, Docker, CI/CD, and system design**
-- 🤝 Open to collaboration on **SaaS products, web apps, dashboards, and automation tools**
+- 🤝 Open to collaboration on **web apps, SaaS MVPs, dashboards, and backend systems**
 
 ---
 
-## 🛠 Core Expertise
+## 🛠 Core Skills
 
 - Full-Stack Web Development  
-- SaaS MVP Development  
-- REST API & Third-Party Integrations  
-- Authentication Systems (Firebase, JWT)  
+- REST API Integration  
+- Authentication (Firebase / JWT)  
 - Dashboard & Admin Panels  
-- Database Design & Backend Logic  
-- AI Workflow Automation  
-- Business Tools & Internal Systems  
-
----
-
-## 🚧 Featured Project
-
-### Dream Funded
-A scalable fundraising-focused web application built with modern MERN architecture.
-
-🔗 Repository:  
-https://github.com/Emon-ED/Dream-Funded
+- Backend Architecture  
+- Database Design  
+- Business Tools  
+- Scalable MERN Apps  
 
 ---
 
@@ -48,25 +38,24 @@ https://github.com/Emon-ED/Dream-Funded
 
 ---
 
-## 🤖 AI & Automation Tools
+## 🤖 Tools & Workflow
 
 - OpenAI API
-- Gemini API
-- Claude API
-- REST API Automation
+- REST APIs
 - Webhooks
 - Firebase Functions
-- Workflow Automation
-- API-Based Systems
+- Git & GitHub
+- CI/CD Basics
+- Automation Workflows
 
 ---
 
-## 🌍 Portfolio & Agency
+## 🌍 Portfolio
 
-🔗 CoreStack Studio  
+### CoreStack Studio  
 https://corestack-studio.web.app/
 
-🔗 Personal Portfolio  
+### Personal Portfolio  
 https://myportfolio-6e875.web.app/
 
 ---
@@ -77,14 +66,14 @@ https://drive.google.com/file/d/1utYOh9ElVXFJuH6M7LeCKmR5Ce_Uop7h/view
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
 - Email: **emondutta101@gmail.com**
 - WhatsApp: **+8801531939037**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="left">
 <a href="https://fb.com/emon.dutta.58" target="_blank">
@@ -101,26 +90,20 @@ https://drive.google.com/file/d/1utYOh9ElVXFJuH6M7LeCKmR5Ce_Uop7h/view
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emon-ed&show_icons=true&theme=transparent&cache_seconds=1800" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-ed&layout=compact&theme=transparent&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emon-ed&show_icons=true&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emon-ed&layout=compact&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- SaaS Applications  
-- AI Automation Systems  
-- API-Driven Platforms  
-- Internal Business Tools  
 - Scalable MERN Applications  
-- Modern Web Experiences  
+- SaaS MVP Development  
+- Backend Systems  
+- API-Driven Platforms  
+- Business Automation  
+- Modern UI/UX  
 
 ---
-
-## ⚡ Fun Fact
-
-I enjoy building systems that make businesses faster, smarter, and more scalable.
+⭐ Building useful systems, not just websites.
